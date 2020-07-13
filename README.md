@@ -4,6 +4,10 @@ My name is Francisco, a designer who became a front-end developer. I am fascinat
 
 In my spare time, I like things related to astronomy 🚀🚀 and watching series 🎥. I like to challenge myself in developing new projects and learning new technologies. 👨‍💻🤘
 
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-barros-073010158)](https://www.linkedin.com/in/francisco-barros-073010158)
+
 <!--
 **fraandeveloper/fraandeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
