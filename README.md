@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Francisco, a designer who became a front-end developer. I'm fascinated with everything on the web, that's why I love what I do, always bringing new experiences that enrich the user experience.
+
+In my free time, I like things related to astronomy 🚀, as well as developing personal projects 👨‍💻.
+
 <!--
 **fraandeveloper/fraandeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
